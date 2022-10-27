@@ -6,7 +6,8 @@ namespace Module3Practise3
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Starter.Run();
+            Console.Read();
         }
     }
 }
